@@ -1,28 +1,27 @@
 <h1 align="center">✦ trizkix10 ✦</h1>
 
-<p align="center">
-  <img src="atat.gif" width="55%" alt="AT-AT en pixel art"/>
-  <br/>
-  <sub>Pixel art por <a href="https://www.behance.net/pixeljeff">Pixel Jeff</a></sub>
-</p>
-
 ---
 
-## 🛰️ Sobre mí
+## 🛰️ About me
 
-Estudiante de **Ingeniería Civil en Computación e Informática** en la Universidad Católica del Norte, sede Coquimbo, Chile 🇨🇱.
+<img src="atat.gif" align="right" width="300" alt="AT-AT pixel art"/>
 
-Mi foco profesional está en el área de **datos**: análisis y ciencia de datos, diseño de bases de datos y consumo de APIs. Me motiva transformar información en decisiones y construir herramientas útiles y bien estructuradas.
+I'm a 22-year-old from Coquimbo, Chile 🇨🇱, and a **Civil Engineering student specializing in Computing and Informatics** at Universidad Católica del Norte, passionate about learning new technologies and growing my skills every day.
 
-- 🎮 Desarrollo la **interfaz de usuario** de *Bonkraiders*, un videojuego 3D en Godot construido en equipo, trabajando con control de versiones en Git y revisión de cambios entre integrantes.
-- 🔌 Experiencia con **C++ y Arduino** en proyectos de electrónica y programación de microcontroladores.
-- 📚 Actualmente profundizando en **análisis de datos con Python**.
+I'm especially drawn to **data science** and everything around **artificial intelligence**: data analysis, databases, APIs and machine learning. I enjoy turning information into decisions and building tools that are useful and well structured.
+
+- 🎮 I build the **user interface** of *Bonkraiders*, a 3D game made in Godot by a student team, working with Git and code reviews between teammates.
+- 📐 I teach: I'm a **teaching assistant for Linear Algebra** at my university and I also give **private tutoring** lessons.
+- 🔌 I have experience with **C++ and Arduino**, programming microcontrollers for electronics projects.
+- 📚 Right now I'm going deeper into **data analysis with Python**.
+- 🤝 I value collaboration, adaptability and continuous learning, and I'm always eager to take on challenges that help me grow both academically and personally.
+- 🎧 Outside tech, I love listening to music and spending time with my dog **Doki** 🐶.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Lenguajes**
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,7 +31,7 @@ Mi foco profesional está en el área de **datos**: análisis y ciencia de datos
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-**Herramientas**
+**Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
@@ -44,21 +43,23 @@ Mi foco profesional está en el área de **datos**: análisis y ciencia de datos
 
 ---
 
-## 🌌 Proyectos
+## 🌌 Projects
 
-| Proyecto | Descripción |
+| Project | Description |
 |---|---|
-| [Bonkraiders](https://github.com/MotelPaso/chipeteao-main) | Roguelike 3D en Godot hecho en equipo. Me encargo de la UI. |
-| [Talleres-POO](https://github.com/trizkix10/Talleres-POO) | Talleres de Programación Orientada a Objetos en Java. |
-| [El-se-or-de-la-noche](https://github.com/trizkix10/El-se-or-de-la-noche) | Proyecto web en HTML. |
+| [Bonkraiders](https://github.com/MotelPaso/chipeteao-main) | 3D roguelike made in Godot as a team. I'm in charge of the UI. |
+| [Talleres-POO](https://github.com/trizkix10/Talleres-POO) | Object-Oriented Programming workshops in Java. |
+| [El-se-or-de-la-noche](https://github.com/trizkix10/El-se-or-de-la-noche) | Web project in HTML. |
 
 ---
 
-## 📡 Estadísticas
+## 📡 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trizkix10&show_icons=true&hide_border=true&locale=es&bg_color=03040b&title_color=ffd21f&icon_color=36c6ff&text_color=cfd6ea"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizkix10&layout=compact&hide_border=true&locale=es&bg_color=03040b&title_color=ffd21f&text_color=cfd6ea"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trizkix10&show_icons=true&hide_border=true&locale=en&bg_color=03040b&title_color=ffd21f&icon_color=36c6ff&text_color=cfd6ea"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizkix10&layout=compact&hide_border=true&locale=en&bg_color=03040b&title_color=ffd21f&text_color=cfd6ea"/>
 </p>
 
-<p align="center"><i>Que la fuerza te acompañe ✨</i></p>
+<p align="center"><i>May the force be with you ✨</i></p>
+
+<p align="center"><sub>AT-AT pixel art by <a href="https://www.behance.net/pixeljeff">Pixel Jeff</a></sub></p>
