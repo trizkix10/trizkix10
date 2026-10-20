@@ -1,10 +1,14 @@
+<h1 align="center">✦ trizkix10 ✦</h1>
+
 <p align="center">
-  <img src="banner.svg" width="100%" alt="banner espacial"/>
+  <img src="atat.gif" width="100%" alt="AT-AT en pixel art"/>
+  <br/>
+  <sub>Pixel art por <a href="https://www.behance.net/pixeljeff">Pixel Jeff</a></sub>
 </p>
 
 <p align="center"><i>Cada commit es un salto al hiperespacio: no siempre sabes dónde aterrizas, pero siempre avanzas.</i></p>
 
-<p align="center"><img src="divider.svg" width="100%"/></p>
+---
 
 ## 🛰️ Sobre mí
 
@@ -14,7 +18,7 @@ Estudiante de **Ingeniería Civil en Computación e Informática** en la Univers
 - 🎮 Actualmente me encargo de la **interfaz de usuario** de **Bonkraiders**, un juego en Godot que hacemos en equipo.
 - 🌱 Aprendiendo: análisis de datos con Python.
 
-<p align="center"><img src="divider.svg" width="100%"/></p>
+---
 
 ## 🚀 Tech Stack
 
@@ -36,7 +40,7 @@ Estudiante de **Ingeniería Civil en Computación e Informática** en la Univers
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-<p align="center"><img src="divider.svg" width="100%"/></p>
+---
 
 ## 🌌 Proyectos
 
@@ -46,7 +50,7 @@ Estudiante de **Ingeniería Civil en Computación e Informática** en la Univers
 | [Talleres-POO](https://github.com/trizkix10/Talleres-POO) | Talleres de Programación Orientada a Objetos en Java. |
 | [El-se-or-de-la-noche](https://github.com/trizkix10/El-se-or-de-la-noche) | Proyecto web en HTML. |
 
-<p align="center"><img src="divider.svg" width="100%"/></p>
+---
 
 ## 📡 Estadísticas
 
