@@ -3,10 +3,8 @@
 <p align="center">
   <img src="atat.gif" width="100%" alt="AT-AT en pixel art"/>
   <br/>
-  <sub>Pixel art por <a href="https://www.behance.net/pixeljeff">Pixel Jeff</a></sub>
 </p>
 
-<p align="center"><i>Cada commit es un salto al hiperespacio: no siempre sabes dónde aterrizas, pero siempre avanzas.</i></p>
 
 ---
 
