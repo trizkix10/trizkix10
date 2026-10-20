@@ -1,20 +1,22 @@
 <h1 align="center">✦ trizkix10 ✦</h1>
 
 <p align="center">
-  <img src="atat.gif" width="100%" alt="AT-AT en pixel art"/>
+  <img src="atat.gif" width="55%" alt="AT-AT en pixel art"/>
   <br/>
+  <sub>Pixel art por <a href="https://www.behance.net/pixeljeff">Pixel Jeff</a></sub>
 </p>
-
 
 ---
 
 ## 🛰️ Sobre mí
 
-Estudiante de **Ingeniería Civil en Computación e Informática** en la Universidad Católica del Norte, Coquimbo 🇨🇱
+Estudiante de **Ingeniería Civil en Computación e Informática** en la Universidad Católica del Norte, sede Coquimbo, Chile 🇨🇱.
 
-- 📊 Me interesa el mundo de los **datos**: ciencia de datos, bases de datos y APIs.
-- 🎮 Actualmente me encargo de la **interfaz de usuario** de **Bonkraiders**, un juego en Godot que hacemos en equipo.
-- 🌱 Aprendiendo: análisis de datos con Python.
+Mi foco profesional está en el área de **datos**: análisis y ciencia de datos, diseño de bases de datos y consumo de APIs. Me motiva transformar información en decisiones y construir herramientas útiles y bien estructuradas.
+
+- 🎮 Desarrollo la **interfaz de usuario** de *Bonkraiders*, un videojuego 3D en Godot construido en equipo, trabajando con control de versiones en Git y revisión de cambios entre integrantes.
+- 🔌 Experiencia con **C++ y Arduino** en proyectos de electrónica y programación de microcontroladores.
+- 📚 Actualmente profundizando en **análisis de datos con Python**.
 
 ---
 
@@ -25,6 +27,7 @@ Estudiante de **Ingeniería Civil en Computación e Informática** en la Univers
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
@@ -33,6 +36,7 @@ Estudiante de **Ingeniería Civil en Computación e Informática** en la Univers
 
 <p>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
@@ -57,4 +61,4 @@ Estudiante de **Ingeniería Civil en Computación e Informática** en la Univers
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizkix10&layout=compact&hide_border=true&locale=es&bg_color=03040b&title_color=ffd21f&text_color=cfd6ea"/>
 </p>
 
-<p align="center"><i>Que la fuerza del código te acompañe ✨</i></p>
+<p align="center"><i>Que la fuerza te acompañe ✨</i></p>
