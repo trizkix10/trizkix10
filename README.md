@@ -6,7 +6,7 @@
 
 <img src="atat.gif" align="right" width="300" alt="AT-AT pixel art"/>
 
-I'm a 22-year-old from Coquimbo, Chile 🇨🇱, and a **Civil Engineering student specializing in Computing and Informatics** at Universidad Católica del Norte, passionate about learning new technologies and growing my skills every day.
+I'm a 22-year-old from Coquimbo, Chile 🇨🇱, and a **Computer Engineering student** at Universidad Católica del Norte, passionate about learning new technologies and growing my skills every day.
 
 I'm especially drawn to **data science** and everything around **artificial intelligence**: data analysis, databases, APIs and machine learning. I enjoy turning information into decisions and building tools that are useful and well structured.
 
@@ -46,7 +46,7 @@ I'm especially drawn to **data science** and everything around **artificial inte
 | Project | Description |
 |---|---|
 | [Bonkraiders](https://github.com/MotelPaso/chipeteao-main) | 3D roguelike made in Godot as a team. I'm in charge of the UI. |
-| [Talleres-POO](https://github.com/trizkix10/Talleres-POO) | Object-Oriented Programming workshops in Java. |
+| [Talleres-POO](https://github.com/MotelPaso/POO-UCN) | Object-Oriented Programming workshops in Java. |
 | [El-se-or-de-la-noche](https://github.com/trizkix10/El-se-or-de-la-noche) | Web project in HTML. |
 
 ---
